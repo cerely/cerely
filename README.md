@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌸 Hi, I'm Saya  <br><br>♡ I love designing and building beautiful, functional websites  <br>꩜I focus on clean UI, smooth interactions, and aesthetic layouts  <br>✮Exploring how design and technology work together to create great experiences  <br>𐙚Also experienced with IoT and microcontroller projects (8051, STM32, Raspberry Pi)  <br>ᡣ𐭩Always learning, improving, and experimenting with new ideas  <br><br>Turning creative ideas into elegant web experiences .☘︎ ݁˖<br>
+🌸 Hi, I'm Saya  <br><br>♡  I love designing and building beautiful, functional websites  <br>꩜ I focus on clean UI, smooth interactions, and aesthetic layouts  <br>✮ Exploring how design and technology work together to create great experiences  <br>𐙚 Also experienced with IoT and microcontroller projects (8051, STM32, Raspberry Pi)  <br>ᡣ𐭩 Always learning, improving, and experimenting with new ideas  <br><br> Turning creative ideas into elegant web experiences .☘︎ ݁˖<br>
 
 
 ## 🌐 Socials:
